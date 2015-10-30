@@ -4,3 +4,9 @@
 [submodule "examples"]
 	path = examples
 	url = https://github.com/brandonhimpfen/html-angularjs-template-examples
+[submodule "extras/jade"]
+	path = extras/jade
+	url = https://github.com/brandonhimpfen/html-template-jade
+[submodule "extras/sass"]
+	path = extras/sass
+	url = https://github.com/brandonhimpfen/html-template-sass
